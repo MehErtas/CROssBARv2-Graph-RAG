@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+anthropic
+requests
+python-dotenv
+chromadb
+google-genai
+neo4j
+google-generativeai
+networkx
+numpy
+voyageai

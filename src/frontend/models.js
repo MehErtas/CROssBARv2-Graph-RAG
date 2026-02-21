@@ -1,0 +1,22 @@
+export const models = [
+  { id: 'chatgpt', name: 'ChatGPT (OpenAI)' },
+  { id: 'o4-mini', name: 'O4 Mini' },
+  { id: 'o3', name: 'O3' },
+  { id: 'o3-mini', name: 'O3 Mini' },
+  { id: 'gemini-2.5-flash', name: 'Gemini 2.5 Flash' },
+  { id: 'gemini-2.5-pro', name: 'Gemini 2.5 Pro' },
+  { id: 'gemini-2.0-flash', name: 'Gemini 2.0 Flash' },
+  { id: 'gemini-2.0-pro', name: 'Gemini 2.0 Pro' },
+  { id: 'claude-4-opus', name: 'Claude 4 Opus' },
+  { id: 'claude-4-sonnet', name: 'Claude 4 Sonnet' },
+  { id: 'claude-3-opus', name: 'Claude 3 Opus' },
+  { id: 'claude-3-sonnet', name: 'Claude 3 Sonnet' },
+  { id: 'mistral-small', name: 'Mistral Small' },
+  { id: 'mistral-medium', name: 'Mistral Medium' },
+  { id: 'mistral-large', name: 'Mistral Large' },
+  { id: 'llama-3.2-90b', name: 'Llama 3.2 90B' },
+  { id: 'llama-3.3-70b', name: 'Llama 3.3 70B' },
+  { id: 'deepseek-chat', name: 'Deepseek Chat' },
+  { id: 'deepseek-r1', name: 'Deepseek R1' },
+  { id: 'local', name: 'Local Model (Port 11434)' }
+];

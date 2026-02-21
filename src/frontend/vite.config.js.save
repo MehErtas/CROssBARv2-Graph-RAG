@@ -1,0 +1,8 @@
+inpm run dev -- --port 1793mport { defineConfig } from 'vite'
+
+export default defineConfig({
+  server: {
+    port: 1793,
+    allowedHosts: ["*"]
+  }
+})
